@@ -1,1 +1,2 @@
-# Inventos-americanos-y-producci-n-en-serie
+# Inventos-americanos-y-producción-en-serie
+Los Estados Unidos se beneficiaron, como los países del continente europeo, de la técnica inglesa. Una de las primeras experiencias de industrialización fue realizada por un inmigrante inglés, Samuel Slater, quien fabricó en 1789, a partir del modelo de Arkwright, la primera máquina de hilar algodón. Construyó una fábrica importante en Pawtucket, en la isla de Rhode, en 1790. Esta fábrica empleaba energía hidráulica. La difusión general de la máquina de vapor no tendría lugar antes de los años 1850-1860.
